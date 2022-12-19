@@ -1,7 +1,7 @@
 ---
 name: Topic
 about: Suggest a topic.
-title: ''
+title: "[Use article title as issue title]"
 labels: ''
 assignees: ''
 
