@@ -1,0 +1,3 @@
+Name - Rakesh Potnuru
+Profile Image - https://res.cloudinary.com/dckfb8ri8/image/upload/v1667488274/Blog/Authors/WhatsApp_Image_2022-03-15_at_3.57.34_PM_y0la5w.png
+Bio - I'm Rakesh Potnuru, a Full Stack Developer, Technical Writer, and a passionate learner. I am pursuing B.Tech in Computer Science and Engineering at Lovely Professional University, Punjab, India. I have worked on a wide range of technologies and have worked on projects ranging from small to large scale. I am a self-motivated and self-driven individual who is always looking for new challenges and opportunities. I love participating in hackathons and engaging in communities.
