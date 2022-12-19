@@ -7,9 +7,9 @@ Articles and authors data for [GDSC - LPU blog](https://blog.gdsclpu.live).
 
 - Pick a topic from the [issues](https://github.com/gdsclpu/articles/issues) and leave a comment on it. You can begin working on that topic after one of the maintainers assigns it to you (Make sure to follow the [guidelines](https://docs.google.com/document/d/11aPHpIreCMGZbB1oRNROpIJiSnjfmBnvo2C76ugoPlY/edit?usp=sharing)).
 - You can also suggest a topic by creating an issue.
-- If you are writing for the first time, make sure add your info in `/authors` folder in your forked repo by create a file named "YourName.txt" (Make sure to follow [guidelines]()).
+- If you are writing for the first time, make sure add your info in [`/authors`](https://github.com/gdsclpu/articles/tree/main/authors) folder in your forked repo by create a file named "YourName.txt" (Make sure to follow the [guidelines](https://github.com/gdsclpu/articles/blob/main/authors/README.md)).
 - After completion of writing:
-  - Create a file in `/articles` folder in your forked repo.
+  - Create a file in [`/articles`](https://github.com/gdsclpu/articles/tree/main/articles) folder in your forked repo.
   - Name the file like "Article Title.md".
   - Open a Pull Request.
   - Editors will review and merge your PR.
