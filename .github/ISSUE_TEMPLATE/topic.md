@@ -11,10 +11,12 @@ assignees: ''
 
 ### Type (Article/Snippet)
 
-- [ ] Article
-- [ ] Snippet
+### Would you like to work on this? (Yes/No)
 
-### Would you like to work on this?
+### Tasks 
 
-- [ ] Yes
-- [ ] No
+- [ ] SEO-optimized title
+- [ ] SEO-optimized description
+- [ ] Featured Image
+- [ ] Followed Writers' and editors' guidelines
+- [ ] Minimum and maximum length check (Min: 500 words for article and 100 words for snippet; Max: no-limit for article and 300 words for snippet)
