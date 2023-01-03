@@ -11,6 +11,9 @@ assignees: ''
 
 ### Type (Article/Snippet)
 
+- [ ] Article
+- [ ] Snippet
+
 ### Would you like to work on this?
 
 - [ ] Yes
