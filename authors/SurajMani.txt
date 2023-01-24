@@ -1,0 +1,3 @@
+Name - Suraj Mani
+Profile Image - https://avatars.githubusercontent.com/u/54132258?v=4
+Bio - I'm Suraj Mani, GCP ACE Certified, Cloud Enthusiast, Full Stack Developer, Technical Writer, and a passionate learner/explorer. I am pursuing B.Tech in Computer Science and Engineering at Lovely Professional University, Punjab, India. I have worked on multiple projects with different tech stacks as per latest industry trends. I love to inspect how technologies are working & expanding rapidly. I am a community player who love to host events & deliver talks on Developer technologies.
