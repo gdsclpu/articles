@@ -1,4 +1,4 @@
-![Learn TensorFlow for Machine Learning](<a href="https://ibb.co/YWHrbBR"><img src="https://i.ibb.co/7zs9btY/Learn-Tensor-Flow-for-Machine-Learning.png" alt="Learn-Tensor-Flow-for-Machine-Learning" border="0"></a>)
+![Learn TensorFlow for Machine Learning](https://i.ibb.co/7zs9btY/Learn-Tensor-Flow-for-Machine-Learning.png)
 
 # Introduction
 
