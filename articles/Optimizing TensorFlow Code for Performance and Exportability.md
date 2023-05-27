@@ -1,4 +1,4 @@
-![Learn TensorFlow for Machine Learning 2]([https://github.com/prajwal3104/Articles/assets/70045720/a17dceeb-8792-4b50-a205-695645ddd598](https://res.cloudinary.com/dckfb8ri8/image/upload/v1685191615/Blog/Featured%20Images/Learn_TensorFlow_for_Machine_Learning_2_cover_mn3rhl.png))
+![Learn TensorFlow for Machine Learning 2](https://res.cloudinary.com/dckfb8ri8/image/upload/v1685191615/Blog/Featured%20Images/Learn_TensorFlow_for_Machine_Learning_2_cover_mn3rhl.png)
 
 
 Meta Discrioption: Welcome back to our ongoing series, "Learn TensorFlow for Machine Learning," where we delve deeper into the fascinating world of ML using the tf framework.
