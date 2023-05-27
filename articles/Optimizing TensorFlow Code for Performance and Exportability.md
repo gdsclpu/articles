@@ -337,3 +337,5 @@ plot_preds(x, y, f, new_model, 'Predictions after Training')
 ### Conclusion
 
 In this article, we built a basic machine learning model from scratch using TensorFlow. We started by generating example data, created a quadratic model, defined a loss function, and trained the model using a training loop. We also explored utilizing the `tf.keras` module for a more convenient training process. By understanding these concepts, you can now begin building and training your own machine learning models using TensorFlow.
+
+This is not the end of this series, this was just an overview of how we can make use of the `TensorFlow` framework to ease our model-building in Machine Learning. In upcoming articles, we will dive deeper into every topic break them into parts and clearly understand.
