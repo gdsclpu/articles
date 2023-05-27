@@ -1,4 +1,4 @@
-![Learn TensorFlow for Machine Learning (1)](https://github.com/prajwal3104/Articles/assets/70045720/a17dceeb-8792-4b50-a205-695645ddd598)
+![Learn TensorFlow for Machine Learning 2]([https://github.com/prajwal3104/Articles/assets/70045720/a17dceeb-8792-4b50-a205-695645ddd598](https://res.cloudinary.com/dckfb8ri8/image/upload/v1685191615/Blog/Featured%20Images/Learn_TensorFlow_for_Machine_Learning_2_cover_mn3rhl.png))
 
 
 Meta Discrioption: Welcome back to our ongoing series, "Learn TensorFlow for Machine Learning," where we delve deeper into the fascinating world of ML using the tf framework.
@@ -6,12 +6,9 @@ Meta Discrioption: Welcome back to our ongoing series, "Learn TensorFlow for Mac
 
 ## Introduction
 
-
 Welcome back to our ongoing series, "Learn TensorFlow for Machine Learning," where we delve deeper into the fascinating world of machine learning using the TensorFlow framework. In our previous article, we introduced the fundamentals of TensorFlow and its importance in the field of artificial intelligence and machine learning. Today, we will continue our journey by exploring some more topics that will further enhance your understanding and skills in TensorFlow.
 
-
 In the world of machine learning, artificial intelligence, and data science, TensorFlow has emerged as a powerful framework for building and training models. While TensorFlow can be used interactively like any Python library, it also offers additional tools for performance optimization and model export. One such tool is `tf.function`, which allows developers to separate pure-TensorFlow code from Python code, enabling enhanced performance and exportability.
-
 
 ## Understanding Graphs and `tf.function`
 
@@ -48,7 +45,7 @@ Here, the function is traced, and the optimized graph is utilized to compute the
 
 ## Reusability and Signature Sensitivity
 
-While the optimization provided by `tf.function` is advantageous, it is crucial to understand that the generated graph may not be reusable for inputs with a different signature, such as varying shapes or data types. In such cases, TensorFlow generates a new graph specifically tailored to the input signature.
+While the optimization provided by the `tf.function` is advantageous, it is crucial to understand that the generated graph may not be reusable for inputs with a different signature, such as varying shapes or data types. In such cases, TensorFlow generates a new graph specifically tailored to the input signature.
 
 Let's modify our previous example and observe the behavior of `tf.function` when presented with a different input:
 
@@ -64,7 +61,7 @@ Tracing.
 <tf.Tensor: shape=(), dtype=float32, numpy=34.1>
 ```
 
-As you can see, even though the function is the same, TensorFlow generates a new graph to accommodate the input's different data type and shape. This signature sensitivity ensures accurate computation and prevents potential errors that could arise from incompatible inputs.
+As you can see, even though the function is the same, TensorFlow generates a new graph to accommodate the input's different data types and shapes. This signature sensitivity ensures accurate computation and prevents potential errors that could arise from incompatible inputs.
 
 ## Managing Variables and Functions in TensorFlow
 
@@ -171,7 +168,7 @@ plt.plot(x, f(x), label='Ground truth')
 plt.legend();
 ```
 ### Code Output
-![1](https://github.com/prajwal3104/Articles/assets/70045720/23cf8734-4cf1-4e35-a3d6-94e6438c2696)
+![1](https://res.cloudinary.com/dckfb8ri8/image/upload/v1685191588/Blog/Blog%20Images/learn%20tensorflow%202/1_ytrc8g.png)
 
 
 ### Creating a Quadratic Model
@@ -211,8 +208,7 @@ Let's plot the initial predictions of the model:
 plot_preds(x, y, f, quad_model, 'Initial Predictions')
 ```
 ### Code Output
-![2](https://github.com/prajwal3104/Articles/assets/70045720/124d8d53-5689-483f-9857-819673848e07)
-
+![2](https://res.cloudinary.com/dckfb8ri8/image/upload/v1685191589/Blog/Blog%20Images/learn%20tensorflow%202/2_lu1njs.png)
 
 ### Defining the Loss Function
 
@@ -275,7 +271,7 @@ Mean squared error for step 130: 1.089
 Mean squared error for step 140: 1.088
 ```
 
-![3](https://github.com/prajwal3104/Articles/assets/70045720/dcb83865-7310-4136-af6e-834103c86f1c)
+![3](https://res.cloudinary.com/dckfb8ri8/image/upload/v1685191588/Blog/Blog%20Images/learn%20tensorflow%202/3_u3v936.png)
 
 
 ### Evaluating the Trained Model
@@ -286,8 +282,7 @@ Let's observe the performance of the trained model:
 plot_preds(x, y, f, quad_model, 'Predictions after Training')
 ```
 ### Code Output
-![4](https://github.com/prajwal3104/Articles/assets/70045720/b5b223b6-8359-43a3-a68d-bc1a28b89f2e)
-
+![4](https://res.cloudinary.com/dckfb8ri8/image/upload/v1685191589/Blog/Blog%20Images/learn%20tensorflow%202/4_oyzlpe.png)
 
 ### Utilizing tf.keras for Training
 
@@ -324,7 +319,7 @@ plt.ylabel('Loss [Mean Squared Error]')
 plt.title('Keras training progress')
 ```
 ### Code Output
-![5](https://github.com/prajwal3104/Articles/assets/70045720/357237ce-f8b9-4d1c-8bda-7e4b7105e065)
+![5](https://res.cloudinary.com/dckfb8ri8/image/upload/v1685191589/Blog/Blog%20Images/learn%20tensorflow%202/5_seqhbm.png)
 
 Finally, we can evaluate the performance of the Keras model:
 
@@ -332,10 +327,10 @@ Finally, we can evaluate the performance of the Keras model:
 plot_preds(x, y, f, new_model, 'Predictions after Training')
 ```
 ### Code Output
-![6](https://github.com/prajwal3104/Articles/assets/70045720/19eb09b3-3ab1-428d-a4d9-498686403722)
+![6](https://res.cloudinary.com/dckfb8ri8/image/upload/v1685191589/Blog/Blog%20Images/learn%20tensorflow%202/6_k8j0dt.png)
 
 ### Conclusion
 
-In this article, we built a basic machine learning model from scratch using TensorFlow. We started by generating example data, created a quadratic model, defined a loss function, and trained the model using a training loop. We also explored utilizing the `tf.keras` module for a more convenient training process. By understanding these concepts, you can now begin building and training your own machine learning models using TensorFlow.
+In this article, we built a basic machine learning model from scratch using TensorFlow. We started by generating example data, created a quadratic model, defined a loss function, and trained the model using a training loop. We also explored utilizing the `tf.keras` module for a more convenient training process. By understanding these concepts, you can now begin building and training your own machine-learning models using TensorFlow.
 
-This is not the end of this series, this was just an overview of how we can make use of the `TensorFlow` framework to ease our model-building in Machine Learning. In upcoming articles, we will dive deeper into every topic break them into parts and clearly understand.
+This is not the end of this series, this was just an overview of how we can make use of the `TensorFlow` framework to ease our model-building in Machine Learning. In upcoming articles, we will dive deeper into every topic break them into parts, and clearly understand.
