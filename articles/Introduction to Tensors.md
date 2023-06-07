@@ -1,5 +1,5 @@
 
-![Learn TensorFlow for Machine Learning](https://github.com/prajwal3104/Articles/assets/70045720/03804302-3ff4-4f79-9f22-d9c63e692c5c)
+![Learn TensorFlow for Machine Learning](https://res.cloudinary.com/dckfb8ri8/image/upload/v1686150084/Blog/Featured%20Images/Learn_TensorFlow_for_Machine_Learning_2_lee6gg.png)
 
 SEO Title: "Tensor Basics: Types, Operations, and Applications in TensorFlow"
 
@@ -106,7 +106,7 @@ The output displays the created tensor, which consists of the provided values ar
 
 Matrices are extensively used in various mathematical operations, linear algebra, and machine learning algorithms. They serve as the foundation for representing datasets, performing matrix multiplications, and transforming data.
 
-![tensor](https://github.com/gdsclpu/articles/assets/70045720/942e4932-e361-4b3f-b71b-5aa3cb70813c)
+![tensor](https://res.cloudinary.com/dckfb8ri8/image/upload/v1686149961/Blog/Blog%20Images/Introduction%20to%20Tensors/tensor_orwsvo.png)
 
 ### Tensors with Multiple Axes
 
@@ -148,7 +148,7 @@ In the code snippet above, we create a rank-3 tensor using the `tf.constant()` f
 
 Tensors with multiple axes are particularly useful in scenarios where we need to handle and manipulate complex data structures. They allow us to represent and process data in higher-dimensional spaces, providing valuable insights and facilitating advanced computations in machine learning and data science.
 
-![tensor1](https://github.com/prajwal3104/Articles/assets/70045720/daf07dff-ad74-40d9-bc6a-17e97e603f67)
+![tensor1](https://res.cloudinary.com/dckfb8ri8/image/upload/v1686149961/Blog/Blog%20Images/Introduction%20to%20Tensors/tensor1_msyin0.png)
 
 ### Converting Tensors to NumPy Arrays
 
