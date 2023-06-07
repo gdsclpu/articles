@@ -106,7 +106,7 @@ The output displays the created tensor, which consists of the provided values ar
 
 Matrices are extensively used in various mathematical operations, linear algebra, and machine learning algorithms. They serve as the foundation for representing datasets, performing matrix multiplications, and transforming data.
 
-![tensor](https://github.com/prajwal3104/Articles/assets/70045720/929cde95-4e6f-4cbf-8350-e48f74abe2d7)
+![tensor](https://github.com/gdsclpu/articles/assets/70045720/aa89128a-7f28-4e84-ba28-389ce59ae556)
 
 ### Tensors with Multiple Axes
 
